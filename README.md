@@ -1,6 +1,8 @@
 Plant Disease Detection Using CNN and Automated Chatbot
 This project uses a Convolutional Neural Network (CNN) to detect plant leaf diseases from images and suggests the top 3 possible results with confidence levels. An automated chatbot powered by the Google Gemini API provides information and treatment guidance based on the detected disease. Users can also generate a PDF report summarizing the diagnosis and suggestions.
 
+** REPLACE YOUR API KEY WITH "PUT_YOUR_API_KEY_HERE" IN main.py **
+
 Key Features:
 
  CNN model for disease detection:
