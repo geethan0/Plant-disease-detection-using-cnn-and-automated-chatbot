@@ -35,7 +35,7 @@ def predict_image_class(model, image):
     return top_3
 
 #  Secure API Key Handling
-GOOGLE_API_KEY = "AIzaSyDXIk5iw2cuqnxz-sozRc_SzVSoXEIq4dQ"
+GOOGLE_API_KEY = "PUT_YOUR_API_KEY_HERE"
 
 if GOOGLE_API_KEY:
     gen_ai.configure(api_key=GOOGLE_API_KEY)
