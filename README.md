@@ -18,9 +18,16 @@ Trained Model Link: [https://drive.google.com/file/d/1i466c4XOs048Q54EPCqgzoG8zW
 
 Tech Stack:
 Programming Language: Python
+
 Deep Learning Framework: TensorFlow (Keras API)
+
 Model: Convolutional Neural Network (CNN) for multi-class plant disease classification
+
 Web Framework: Streamlit (for UI and interaction)
+
 Image Handling: PIL (Python Imaging Library), NumPy
+
 Chatbot Integration: Google Gemini API (Generative AI)
+
 PDF Generation: WeasyPrint, base64 encoding
+
